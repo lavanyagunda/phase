@@ -1,0 +1,46 @@
+{
+  "profile":{
+    "img":"penguins.jpg",
+    "name":"hari",
+    "roll":"1293",
+    "place":"guntur",
+    "des":"trainer cum developer"
+  },
+  "career":{
+    "info":"i seek a postion where i can  explore my talents for the benefits of the organization"
+  },
+  "education":[
+    {
+      "sno":"1.",
+      "degree":"b.tech",
+      "institute":"vignan",
+      "per":"86%",
+      "yop":"2018"
+    },
+      {
+        "sno":"2.",
+        "degree":"inter",
+        "institute":"srichaitanaya",
+        "per":"88%",
+        "yop":"2017"
+},
+    {
+      "sno":"1.",
+      "degree":"scc",
+      "institute":"kanaa",
+      "per":"96%",
+      "yop":"2015"
+}
+],
+"languages":[
+  {
+    "info":"english"
+  },
+  {
+    "info":"telugu"
+  },
+  {
+    "info":"hindi"
+  }
+]
+}
